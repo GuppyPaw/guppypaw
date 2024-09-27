@@ -1,5 +1,5 @@
 <h1 align="center">🐸 Hi, I'm Andres 🐸</h1>
-<p align="center">💼 Work @ MEPIEL 💼</p>
+<p align="center">💼 Work @ BBVA 💼</p>
 
 - 🌱 I’m currently learning **Java** hehe
 
